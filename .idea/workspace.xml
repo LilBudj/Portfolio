@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a71e27ba-0e3d-4de9-b629-72d6b957758b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contacts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Slogan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Slogan.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneSkill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneSkill.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.module.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +85,7 @@
       <updated>1572615081911</updated>
       <workItem from="1572615083648" duration="956000" />
       <workItem from="1572696490491" duration="760000" />
-      <workItem from="1572771205505" duration="3428000" />
+      <workItem from="1572771205505" duration="9372000" />
     </task>
     <task id="LOCAL-00001" summary="Base Structure [1]">
       <created>1572772505088</created>
@@ -98,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572772505088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Base Structure [2]">
+      <created>1572774848111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572774848111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Base Structure [1]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Base Structure [1]" />
+    <MESSAGE value="Base Structure [2]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base Structure [2]" />
   </component>
 </project>

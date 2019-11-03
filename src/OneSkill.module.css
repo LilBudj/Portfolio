@@ -1,0 +1,22 @@
+.skill{
+    border: 1px solid;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name{}
+
+.describe{
+    width:300px;
+    border: 1px solid;
+}
+
+.img{
+    background-color: darkslategrey;
+    width: 90px;
+    height: 90px;
+}

@@ -1,4 +1,29 @@
 .skills{
     height: 100vh;
     background-color: lawngreen;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    justify-content: center;
+    align-items: center;
+}
+
+.abilities{
+    width: 80%;
+    height: 400px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.desryption{
+    width: 80%;
+    height: 100px;
+    border: 1px solid;
 }
