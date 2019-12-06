@@ -3,6 +3,8 @@
     background-color: orange;
     display: flex;
     justify-content: center;
+    position: fixed;
+    width: 100%
 }
 
 .container{
@@ -20,5 +22,11 @@
 }
 
 .link{
+    text-decoration: none;
+    color: white;
+}
 
+.link:active{
+    text-decoration: none;
+    color: white;
 }

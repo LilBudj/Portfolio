@@ -7,7 +7,7 @@ const Main = () => {
             <div className={style.container}>
                 <div className={style.greetings}>
                     <span>Hi there!</span>
-                    <span>I am front-end developer</span>
+                    <span className={style.intro}>I am front-end developer</span>
                 </div>
                 <div className={style.photo}>
                     <img src='' className={style.image}/>

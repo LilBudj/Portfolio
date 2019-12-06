@@ -24,3 +24,16 @@
     width: 300px;
     background-color: darkslategrey;
 }
+
+.intro{
+    position: relative;
+}
+
+.intro:before{
+    content: "";
+    background-color: darkmagenta;
+    height: 7px;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
