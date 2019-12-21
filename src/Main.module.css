@@ -1,6 +1,6 @@
 .main{
     height: 100vh;
-    background-color: cornflowerblue;
+    background-color: #222222;
     display: flex;
     justify-content: center;
 }
@@ -17,6 +17,10 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    color: white;
+    font-size: 24px;
+    font-family: 'Josefin Sans', sans-serif;
+    z-index: 4;
 }
 
 .photo{
@@ -31,9 +35,10 @@
 
 .intro:before{
     content: "";
-    background-color: darkmagenta;
-    height: 7px;
-    width: 100%;
+    background-color: red;
+    height: 6px;
+    width: 70%;
     position: absolute;
-    bottom: 0px;
+    right: -1px;
+    bottom: 2px;
 }
