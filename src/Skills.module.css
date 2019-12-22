@@ -1,23 +1,31 @@
 .skills{
     min-height: 100vh;
-    background-color: lawngreen;
+    background-color: #252527;
     display: flex;
     justify-content: center;
+    font-family: "Poppins", sans-serif;
 }
 
 .container{
     width: 80%;
     display: flex;
     flex-direction: column;
-    border: 1px solid;
     justify-content: center;
     align-items: center;
+}
+
+.line{
+    width: 60px;
+    height: 1px;
+    align-self: center;
+    justify-self: center;
+    background-color: red;
+    margin: 30px auto;
 }
 
 .abilities{
     width: 80%;
     min-height: 400px;
-    border: 1px solid;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -26,7 +34,10 @@
 .desryption{
     width: 80%;
     height: 100px;
-    border: 1px solid;
+    color: white;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 24px;
 }
 
 @media screen and (max-width: 1440px){

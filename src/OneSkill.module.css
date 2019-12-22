@@ -1,5 +1,4 @@
 .skill{
-    border: 1px solid;
     height: 400px;
     width: 300px;
     display: flex;
@@ -8,11 +7,13 @@
     justify-content: space-between;
 }
 
-.name{}
+.name{
+    color: white;
+}
 
 .describe{
     width:300px;
-    border: 1px solid;
+    color: white;
 }
 
 .img{

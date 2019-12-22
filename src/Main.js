@@ -10,7 +10,7 @@ const Main = () => {
                     <span className={style.intro}>I am front-end developer</span>
                 </div>
                 <div className={style.photo}>
-                    <img src='' className={style.image}/>
+                    <div className={style.image}/>
                 </div>
             </div>
         </div>

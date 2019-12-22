@@ -1,16 +1,15 @@
 .project{
-    border: 1px solid;
     height: 400px;
     width: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
+
 }
 
 .describe{
     width:400px;
-    border: 1px solid;
     height: 150px;
     display: flex;
     flex-direction: column;
