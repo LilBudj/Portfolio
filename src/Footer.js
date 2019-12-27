@@ -4,7 +4,16 @@ import style from './Footer.module.css';
 const Footer = () => {
     return(
         <div className={style.footer}>
-            <h1>2019(c) All rights reserved</h1>
+            <div className={style.container}>
+                <div className={style.element}>
+                </div>
+                <div className={style.element}>
+                </div>
+                <div className={style.element}>
+                </div>
+                <div className={style.element}>
+                </div>
+            </div>
         </div>
     );
 };

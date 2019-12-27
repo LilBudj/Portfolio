@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a71e27ba-0e3d-4de9-b629-72d6b957758b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RedMark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Button.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OneSkill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneSkill.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -93,7 +88,9 @@
       <workItem from="1573206830951" duration="464000" />
       <workItem from="1575045214933" duration="7135000" />
       <workItem from="1575649806848" duration="1943000" />
-      <workItem from="1576959973888" duration="8722000" />
+      <workItem from="1576959973888" duration="11163000" />
+      <workItem from="1577134640722" duration="1448000" />
+      <workItem from="1577436316929" duration="1882000" />
     </task>
     <task id="LOCAL-00001" summary="Base Structure [1]">
       <created>1572772505088</created>
@@ -130,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576961049325</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Colorizing[2]">
+      <created>1577022583128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577022583128</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +159,7 @@
     <MESSAGE value="Base Structure [3]" />
     <MESSAGE value="Base Structure [4]" />
     <MESSAGE value="Colorizing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colorizing" />
+    <MESSAGE value="Colorizing[2]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Colorizing[2]" />
   </component>
 </project>
