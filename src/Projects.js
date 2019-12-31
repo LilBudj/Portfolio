@@ -7,7 +7,7 @@ const Projects = () => {
     return(
         <div className={style.projects}>
             <div className={style.container}>
-               <Mark mark={"My Works"}/>
+               <Mark mark={"My works"}/>
                 <div className={style.works}>
                     <Project message="urguhdgudhfuhsoghh" name="White Square"/>
                     <Project message="rgdsgrethgjoyhkoth" name="Rectangle of Terror"/>

@@ -58,3 +58,34 @@
     bottom: 3px;
     z-index: -1;
 }
+
+@media screen and (max-width: 700px){
+    .main{
+        height: 140vh;
+    }
+    .image{
+        height: 240px;
+        width: 180px;
+    }
+    .photo .image:before{
+        height: 245px;
+        width: 180px;
+    }
+    .greetings{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-height: 600px){
+    .main{
+        height: 140vh;
+    }
+    .image{
+        height: 240px;
+        width: 180px;
+    }
+    .photo .image:before{
+        height: 245px;
+        width: 180px;
+    }
+}

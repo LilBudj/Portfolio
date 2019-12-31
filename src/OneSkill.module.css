@@ -20,6 +20,8 @@
     background-color: darkslategrey;
     width: 90px;
     height: 90px;
+    transform: rotate(45deg);
+    margin: 20px 20px 50px 20px;
 }
 
 @media screen and (max-width: 360px){

@@ -47,3 +47,9 @@
         align-items: center;
     }
 }
+
+@media screen and (max-width: 600px){
+    .desryption{
+        margin-top: 25px;
+    }
+}

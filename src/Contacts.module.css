@@ -1,20 +1,20 @@
 .contacts{
     height: 100vh;
-    background-color: crimson;
+    background-color: #252527;
     display: flex;
     justify-content: center;
+    font-family: "Poppins", sans-serif;
 }
 
 .container{
     width: 80%;
-    border: 1px solid;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
 .form{
-    border: 1px solid;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
