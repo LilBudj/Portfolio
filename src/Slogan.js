@@ -1,13 +1,15 @@
 import React from 'react';
 import style from './Slogan.module.css';
+import Mark from "./RedMark";
+import Button from "./Button";
 
 const Slogan = () => {
-    return(
+    return (
         <div className={style.slogan}>
+            <Mark mark={`I'm avaliable for freelance`}/>
             <div className={style.container}>
-                <div className={style.message}>Sacramentum hoc revelatum</div>
                 <div>
-                <button className={style.hire}>Hire me!</button>
+                    <Button content={'Hire me!'}/>
                 </div>
             </div>
         </div>

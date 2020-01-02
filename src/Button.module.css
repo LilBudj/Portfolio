@@ -1,4 +1,10 @@
 .button{
+    outline: none;
     width: 100px;
+    color: white;
     height: 40px;
+    background-color: transparent;
+    font-family: "Poppins", sans-serif;
+    border: none;
+    font-size: 20px;
 }
