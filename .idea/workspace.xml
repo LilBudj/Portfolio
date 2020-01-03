@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a71e27ba-0e3d-4de9-b629-72d6b957758b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slogan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Slogan.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +88,8 @@
       <workItem from="1577134640722" duration="1448000" />
       <workItem from="1577436316929" duration="3164000" />
       <workItem from="1577711872186" duration="7143000" />
-      <workItem from="1577807558485" duration="6092000" />
+      <workItem from="1577807558485" duration="7378000" />
+      <workItem from="1578018230951" duration="1670000" />
     </task>
     <task id="LOCAL-00001" summary="Base Structure [1]">
       <created>1572772505088</created>
@@ -154,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577809626640</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="stylizing [1]">
+      <created>1577977071567</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577977071567</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +182,7 @@
     <MESSAGE value="Colorizing[2]" />
     <MESSAGE value="Colorizing[3]" />
     <MESSAGE value="Colorizing[4]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colorizing[4]" />
+    <MESSAGE value="stylizing [1]" />
+    <option name="LAST_COMMIT_MESSAGE" value="stylizing [1]" />
   </component>
 </project>
