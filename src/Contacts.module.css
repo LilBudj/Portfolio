@@ -1,6 +1,7 @@
 .contacts{
     height: 100vh;
     background-color: #252527;
+    position: relative;
     display: flex;
     justify-content: center;
     font-family: "Poppins", sans-serif;

@@ -1,6 +1,7 @@
 .projects{
     min-height: 100vh;
     background-color: #282c34;
+    position: relative;
     display: flex;
     justify-content: center;
     font-family: "Poppins", sans-serif;
