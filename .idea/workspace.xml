@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a71e27ba-0e3d-4de9-b629-72d6b957758b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OneSkill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneSkill.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +91,7 @@
       <workItem from="1577711872186" duration="7143000" />
       <workItem from="1577807558485" duration="7378000" />
       <workItem from="1578018230951" duration="13515000" />
-      <workItem from="1578324280640" duration="3757000" />
+      <workItem from="1578324280640" duration="4662000" />
     </task>
     <task id="LOCAL-00001" summary="Base Structure [1]">
       <created>1572772505088</created>
@@ -182,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578247050829</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="animation [3]">
+      <created>1578328559837</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578328559837</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +216,7 @@
     <MESSAGE value="stylizing [2]" />
     <MESSAGE value="animation [1]" />
     <MESSAGE value="animation [2]" />
-    <option name="LAST_COMMIT_MESSAGE" value="animation [2]" />
+    <MESSAGE value="animation [3]" />
+    <option name="LAST_COMMIT_MESSAGE" value="animation [3]" />
   </component>
 </project>

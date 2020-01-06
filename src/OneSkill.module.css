@@ -28,6 +28,7 @@
     transform: rotate(-45deg);
     width: 75px;
     height: 75px;
+    margin: 3px 0 40px 0;
 }
 
 @media screen and (max-width: 360px){

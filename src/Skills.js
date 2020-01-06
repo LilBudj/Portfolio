@@ -4,6 +4,9 @@ import Skill from "./OneSkill";
 import Mark from "./RedMark";
 import Fade from "react-reveal"
 import reactIcon from "./assets/react.png"
+import reduxIcon from "./assets/redux.png"
+import nodeJSIcon from "./assets/nodejs.svg"
+
 const Skills = () => {
     return (
         <div className={style.skills} id={'Skills'}>
@@ -12,8 +15,8 @@ const Skills = () => {
                     <Mark mark={"My Skills"}/>
                     <div className={style.abilities}>
                         <Skill name="React" description="Components class/functional, state, props, hooks" icon={reactIcon}/>
-                        <Skill name="NodeJS" description="ES5/ES6+, TypeScript, startServer"/>
-                        <Skill name="Redux" description="Reducers, actions, subscriber,  context API, thunk"/>
+                        <Skill name="JavaScript" description="ES5/ES6+, TypeScript, startServer" icon={nodeJSIcon}/>
+                        <Skill name="Redux" description="Reducers, actions, subscriber,  context API, thunk" icon={reduxIcon}/>
                     </div>
                 </div>
             </Fade>
