@@ -3,7 +3,7 @@ import style from './Main.module.css';
 
 const Main = () => {
     return(
-        <div className={style.main}>
+        <div className={style.main} id={'Main'}>
             <div className={style.container}>
                 <div className={style.greetings}>
                     <span>Hi there!</span>

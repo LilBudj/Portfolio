@@ -3,10 +3,10 @@ import style from './Skills.module.css';
 import Skill from "./OneSkill";
 import Mark from "./RedMark";
 import Fade from "react-reveal"
-import reactIcon from "./assets/react.jpg"
+import reactIcon from "./assets/react.png"
 const Skills = () => {
     return (
-        <div className={style.skills}>
+        <div className={style.skills} id={'Skills'}>
             <Fade bottom>
                 <div className={style.container}>
                     <Mark mark={"My Skills"}/>

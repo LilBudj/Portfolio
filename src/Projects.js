@@ -6,7 +6,7 @@ import {Fade} from "react-reveal";
 
 const Projects = () => {
     return(
-        <div className={style.projects}>
+        <div className={style.projects} id={'Projects'}>
             <Fade bottom>
             <div className={style.container}>
                <Mark mark={"My works"}/>

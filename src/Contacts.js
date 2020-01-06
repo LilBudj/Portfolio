@@ -6,7 +6,7 @@ import Fade from "react-reveal";
 
 const Contacts = () => {
     return(
-        <div className={style.contacts}>
+        <div className={style.contacts} id={'Contacts'}>
             <Fade bottom>
             <div className={style.container}>
                 <Mark mark={"Contacts"}/>
