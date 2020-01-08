@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a71e27ba-0e3d-4de9-b629-72d6b957758b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a71e27ba-0e3d-4de9-b629-72d6b957758b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <workItem from="1577711872186" duration="7143000" />
       <workItem from="1577807558485" duration="7378000" />
       <workItem from="1578018230951" duration="13515000" />
-      <workItem from="1578324280640" duration="4875000" />
+      <workItem from="1578324280640" duration="5556000" />
     </task>
     <task id="LOCAL-00001" summary="Base Structure [1]">
       <created>1572772505088</created>
@@ -189,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578329341911</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="animation [5]">
+      <created>1578425364128</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1578425364128</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +228,7 @@
     <MESSAGE value="animation [2]" />
     <MESSAGE value="animation [3]" />
     <MESSAGE value="animation [4]" />
-    <option name="LAST_COMMIT_MESSAGE" value="animation [4]" />
+    <MESSAGE value="animation [5]" />
+    <option name="LAST_COMMIT_MESSAGE" value="animation [5]" />
   </component>
 </project>
