@@ -23,15 +23,31 @@
     background-color: #282c34;
 }
 
+.icon{
+    height: 60px;
+    width: 60px;
+    z-index: 4;
+}
+
 @media screen and (max-width: 600px){
     .element{
         height: 40px;
         width: 40px;
     }
+    .icon{
+        height: 30px;
+        width: 30px;
+    }
 }
 
 @media screen and (max-width: 400px){
     .container{
-        width: 100%
+        width: 100%;
+    }
+}
+
+@media screen and (max-height: 500px){
+    .container{
+        height: 30px;
     }
 }

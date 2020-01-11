@@ -53,5 +53,9 @@
 @media screen and (max-width: 600px){
     .desryption{
         margin-top: 25px;
+        height: 75px;
+    }
+    .line{
+        margin: 15px auto;
     }
 }

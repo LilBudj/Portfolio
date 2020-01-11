@@ -20,3 +20,12 @@
 .hire{
     width: 100px;
 }
+
+@media screen and (max-width: 720px){
+    .slogan{
+        height: 180px;
+    }
+    .container{
+        height: 100px;
+    }
+}

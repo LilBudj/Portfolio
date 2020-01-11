@@ -1,6 +1,7 @@
 import React from 'react';
 import style from './Footer.module.css';
 import Mark from "./RedMark";
+import telegram from "./assets/telegram.svg"
 
 const Footer = () => {
     return(
@@ -9,22 +10,22 @@ const Footer = () => {
             <div className={style.container}>
                 <div className={style.element}>
                     <a href=''>
-                        <img src='' alt={'icon'}/>
+                        <img src={telegram} alt={'icon'} className={style.icon}/>
                     </a>
                 </div>
                 <div className={style.element}>
                     <a href=''>
-                        <img src='' alt={'icon'}/>
+                        <img src='' alt={'icon'} className={style.icon}/>
                     </a>
                 </div>
                 <div className={style.element}>
                     <a href=''>
-                        <img src='' alt={'icon'}/>
+                        <img src='' alt={'icon'} className={style.icon}/>
                     </a>
                 </div>
                 <div className={style.element}>
                     <a href=''>
-                        <img src='' alt={'icon'}/>
+                        <img src='' alt={'icon'} className={style.icon}/>
                     </a>
                 </div>
             </div>
