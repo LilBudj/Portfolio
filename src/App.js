@@ -28,7 +28,7 @@ const particlesOpt = {
                 "color": "#ff0011"
             },
             "polygon": {
-                "nb_sides": 7
+                "nb_sides": 4
             },
             "image": {
                 "src": "img/github.svg",
