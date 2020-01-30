@@ -41,8 +41,8 @@ const particlesOpt = {
             "random": false,
             "anim": {
                 "enable": true,
-                "speed": 4,
-                "opacity_min": 0.1,
+                "speed": 6,
+                "opacity_min": 0.2,
                 "sync": true
             }
         },
