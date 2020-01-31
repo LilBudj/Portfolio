@@ -4,7 +4,7 @@ import style from './Project.module.css';
 const Project = (props) => {
     return(
       <div className={style.project}>
-          <div className={style.image}>
+          <div className={style.image} style={{backgroundImage: props.background}}>
               <button> Watch </button>
           </div>
           <div className={style.describe}>

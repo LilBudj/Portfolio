@@ -3,6 +3,8 @@ import style from './Projects.module.css';
 import Project from "./Project";
 import Mark from "./RedMark";
 import {Fade} from "react-reveal";
+import socialNetwork from "./assets/istockphoto-1060210738-1024x1024.jpg";
+import todoList from "./assets/todolist.png"
 
 const Projects = () => {
     return(
@@ -11,8 +13,8 @@ const Projects = () => {
             <div className={style.container}>
                <Mark mark={"My works"}/>
                 <div className={style.works}>
-                    <Project message="urguhdgudhfuhsoghh" name="White Square"/>
-                    <Project message="rgdsgrethgjoyhkoth" name="Rectangle of Terror"/>
+                    <Project message="Social Network" name="White Square" background={socialNetwork}/>
+                    <Project message="To do list" name="Rectangle of Terror" background={todoList}/>
                 </div>
             </div>
             </Fade>
