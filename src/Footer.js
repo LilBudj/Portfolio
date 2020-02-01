@@ -2,6 +2,9 @@ import React from 'react';
 import style from './Footer.module.css';
 import Mark from "./RedMark";
 import telegram from "./assets/telegram.svg"
+import vk from "./assets/vk.svg"
+import instagram from "./assets/instagram.svg";
+import twitter from "./assets/twitter.svg"
 
 const Footer = () => {
     return(
@@ -14,18 +17,18 @@ const Footer = () => {
                     </a>
                 </div>
                 <div className={style.element}>
-                    <a href=''>
-                        <img src='' alt={'icon'} className={style.icon}/>
+                    <a href='https://vk.com/gur1n_lagan'>
+                        <img src={vk} alt={'icon'} className={style.icon}/>
+                    </a>
+                </div>
+                <div className={style.element}>
+                    <a href='https://instagram.com/gur1n_lagan'>
+                        <img src={instagram} alt={'icon'} className={style.icon}/>
                     </a>
                 </div>
                 <div className={style.element}>
                     <a href=''>
-                        <img src='' alt={'icon'} className={style.icon}/>
-                    </a>
-                </div>
-                <div className={style.element}>
-                    <a href=''>
-                        <img src='' alt={'icon'} className={style.icon}/>
+                        <img src={twitter} alt={'icon'} className={style.icon}/>
                     </a>
                 </div>
             </div>
