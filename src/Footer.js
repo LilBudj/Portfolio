@@ -4,7 +4,7 @@ import Mark from "./RedMark";
 import telegram from "./assets/telegram.svg"
 import vk from "./assets/vk.svg"
 import instagram from "./assets/instagram.svg";
-import twitter from "./assets/twitter.svg"
+import linkedIn from "./assets/linkedin.svg"
 
 const Footer = () => {
     return(
@@ -28,7 +28,7 @@ const Footer = () => {
                 </div>
                 <div className={style.element}>
                     <a href=''>
-                        <img src={twitter} alt={'icon'} className={style.icon}/>
+                        <img src={linkedIn} alt={'icon'} className={style.icon}/>
                     </a>
                 </div>
             </div>
