@@ -27,6 +27,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div className={style.element}>
+
                     <a href=''>
                         <img src={linkedIn} alt={'icon'} className={style.icon}/>
                     </a>
