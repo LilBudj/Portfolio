@@ -5,7 +5,7 @@ const Project = (props) => {
     return(
       <div className={style.project}>
           <div className={style.image} style={{backgroundImage: `url(${props.background})`}}>
-              <button> Watch </button>
+              <button className={style.watchButton}> Watch </button>
           </div>
           <div className={style.describe}>
               <div className={style.name}>{props.name}</div>
