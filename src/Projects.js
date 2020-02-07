@@ -13,8 +13,8 @@ const Projects = () => {
             <div className={style.container}>
                <Mark mark={"My works"}/>
                 <div className={style.works}>
-                    <Project message="Social Network" name="White Square" background={socialNetwork} href="https://github.com/LilBudj/Social-Network"/>
-                    <Project message="To do list" name="Rectangle of Terror" background={todoList} href="https://github.com/LilBudj/TodoList"/>
+                    <Project message="Social Network" name="Social Network" background={socialNetwork} href="https://github.com/LilBudj/Social-Network"/>
+                    <Project message="To do list" name="To do list" background={todoList} href="https://github.com/LilBudj/TodoList"/>
                 </div>
             </div>
             </Fade>

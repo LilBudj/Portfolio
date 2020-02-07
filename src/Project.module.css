@@ -15,6 +15,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
+    color: white;
 }
 
 .watchButton{
@@ -29,6 +30,11 @@
     font-size: 20px;
     position: relative;
     z-index: 3;
+}
+
+.watchButton:hover{
+    background-color: crimson;
+    transition: 0.3s;
 }
 
 .image{

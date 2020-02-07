@@ -29,7 +29,6 @@
     width: 60px;
     border-radius: 30px;
     background-color: red;
-    z-index: 4;
 }
 
 @media screen and (max-width: 600px){

@@ -34,7 +34,12 @@
 
 .image{
     height: 400px;
-    width: 300px;
+    width: 260px;
+}
+
+.mainPhoto{
+    height: 400px;
+    width: 260px;
 }
 
 .photo .image:before{
@@ -42,7 +47,7 @@
     border: 4px solid red;
     height: 410px;
     position: absolute;
-    width: 300px;
+    width: 260px;
     z-index: -2;
     left: 10px;
     top: -10px;

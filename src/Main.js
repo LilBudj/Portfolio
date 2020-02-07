@@ -11,7 +11,9 @@ const Main = () => {
                     <span className={style.intro}>I am front-end developer</span>
                 </div>
                 <div className={style.photo}>
-                    <img src={photo} alt={"Main"} className={style.image}/>
+                    <div className={style.image}>
+                        <img src={photo} alt={'main'} className={style.mainPhoto}/>
+                    </div>
                 </div>
             </div>
         </div>
