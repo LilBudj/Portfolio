@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a71e27ba-0e3d-4de9-b629-72d6b957758b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,6 +126,7 @@
       <workItem from="1580061305502" duration="13857000" />
       <workItem from="1580931616103" duration="5342000" />
       <workItem from="1581001284121" duration="3564000" />
+      <workItem from="1581094876531" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="Base Structure [1]">
       <created>1572772505088</created>
@@ -345,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580995515633</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="stylizing">
+      <created>1581094983469</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1581094983469</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
