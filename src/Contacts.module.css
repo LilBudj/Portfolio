@@ -23,6 +23,37 @@
     width: 50%
 }
 
+.button{
+    outline: none;
+    width: 100px;
+    color: white;
+    height: 40px;
+    background-color: transparent;
+    font-family: "Poppins", sans-serif;
+    border: none;
+    font-size: 20px;
+    position: relative;
+    z-index: 3;
+}
+
+.button:before{
+    content: "";
+    background-color: red;
+    height: 5px;
+    width: 50%;
+    position: absolute;
+    bottom: 11px;
+    left: 25px;
+    z-index: -1;
+}
+
+.button:hover:before{
+    height: 20px;
+    width: 80%;
+    transition: 300ms;
+    left: 10px;
+}
+
 button{
     width: 20%
 }
