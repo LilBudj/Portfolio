@@ -12,29 +12,32 @@ const Footer = () => {
             <Mark mark={'Nikita Gurets'}/>
             <div className={style.container}>
                 <div className={style.element}>
-
-                    <a href=''>
+                    <div className={style.middleware}>
+                    <a href='https://telegram.com/gur1n_lagan'>
                             <img src={telegram} alt={'icon'} className={style.icon}/>
                         </a>
+                    </div>
                 </div>
                 <div className={style.element}>
-
+                    <div className={style.middleware}>
                     <a href='https://vk.com/gur1n_lagan'>
                             <img src={vk} alt={'icon'} className={style.icon}/>
                         </a>
+                    </div>
                 </div>
                 <div className={style.element}>
-
+                    <div className={style.middleware}>
                     <a href='https://instagram.com/gur1n_lagan'>
                             <img src={instagram} alt={'icon'} className={style.icon}/>
                         </a>
+                    </div>
                 </div>
                 <div className={style.element}>
-
+                    <div className={style.middleware}>
                     <a href=''>
-
                             <img src={linkedIn} alt={'icon'} className={style.icon}/>
                         </a>
+                    </div>
                 </div>
             </div>
             <div style={{fontSize: '16px', color: 'white', marginBottom:'40px', opacity: '0.6'}}>

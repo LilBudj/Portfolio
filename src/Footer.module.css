@@ -21,6 +21,19 @@
     height: 80px;
     width: 80px;
     background-color: #282c34;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.middleware{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    background-color: red;
 }
 
 .icon{
@@ -28,13 +41,16 @@
     height: 60px;
     width: 60px;
     border-radius: 30px;
-    background-color: red;
 }
 
 @media screen and (max-width: 600px){
     .element{
         height: 40px;
         width: 40px;
+    }
+    .middleware{
+        height: 24px;
+        width: 24px;
     }
     .icon{
         height: 30px;
