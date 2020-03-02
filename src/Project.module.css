@@ -8,6 +8,11 @@
 
 }
 
+.image:hover{
+    transition: 0.3s;
+    filter: blur(1px);
+}
+
 .describe{
     width:400px;
     height: 150px;
@@ -30,9 +35,11 @@
     font-size: 20px;
     position: relative;
     z-index: 3;
+    filter: none
 }
 
 .watchButton:hover{
+    filter: none;
     background-color: crimson;
     transition: 0.3s;
 }
