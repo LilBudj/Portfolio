@@ -3,8 +3,8 @@ import style from './Projects.module.css';
 import Project from "./Project";
 import Mark from "./RedMark";
 import {Fade} from "react-reveal";
-import socialNetwork from "./assets/istockphoto-1060210738-1024x1024.jpg";
-import todoList from "./assets/todolist.jpg"
+import socialNetwork from "./assets/reactCode1.jpg";
+import todoList from "./assets/reactCode3.jpg"
 
 const Projects = () => {
     return(

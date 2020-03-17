@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a71e27ba-0e3d-4de9-b629-72d6b957758b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Slogan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Slogan.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +30,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../01/React" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -130,7 +135,11 @@
       <workItem from="1581094876531" duration="1468000" />
       <workItem from="1581790647392" duration="5114000" />
       <workItem from="1581850899733" duration="11269000" />
-      <workItem from="1582910938292" duration="9607000" />
+      <workItem from="1582910938292" duration="10289000" />
+      <workItem from="1584024055260" duration="1179000" />
+      <workItem from="1584083345343" duration="3981000" />
+      <workItem from="1584342519848" duration="586000" />
+      <workItem from="1584355598929" duration="4758000" />
     </task>
     <task id="LOCAL-00001" summary="Base Structure [1]">
       <created>1572772505088</created>
@@ -370,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582912610584</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="fixing">
+      <created>1583180352819</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1583180352819</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,16 +427,5 @@
     <MESSAGE value="connected to heroku server" />
     <MESSAGE value="fixing" />
     <option name="LAST_COMMIT_MESSAGE" value="fixing" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/App.js</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

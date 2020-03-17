@@ -29,7 +29,7 @@ const Contacts = () => {
                    <input className={style.formArea} placeholder={'Name'} name={"name"} form={"#contact"} value={name} onChange={(e) => {setName(e.currentTarget.value)}}/>
                    <textarea className={style.inputArea} placeholder={'Your message'} name={"message"} form={"#contact"} value={message} onChange={(e) => {setMessage(e.currentTarget.value)}}/>
                    <button className={style.button} onClick={() => {sendMessage()}} form={"#contact"}>Submit</button>
-                </form> : <h1 className={style.thanksgiving}>Thank You!</h1>}
+                </form> : <Fade left><h1 className={style.thanksgiving}>Thank You!</h1></Fade>}
             </div>
             </Fade>
         </div>
