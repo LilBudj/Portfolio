@@ -10,9 +10,6 @@ const Skill = (props) => {
                 </div>
                 <div>{props.name}</div>
             </div>
-            <div className={style.describe}>
-                {props.description}
-            </div>
         </div>
     );
 };
