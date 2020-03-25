@@ -90,11 +90,11 @@
         height: 140vh;
     }
     .image{
-        height: 240px;
-        width: 180px;
+        height: 210px;
+        width: 150px;
     }
     .photo .image:before{
-        height: 245px;
-        width: 180px;
+        height: 225px;
+        width: 160px;
     }
 }
