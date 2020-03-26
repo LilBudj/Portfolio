@@ -73,8 +73,7 @@
         height: 140vh;
     }
     .image{
-        height: 240px;
-        width: 180px;
+        transform: scale(0.7,0.7);
     }
     .photo .image:before{
         height: 245px;
