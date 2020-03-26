@@ -74,6 +74,8 @@
     }
     .image{
         transform: scale(0.7,0.7);
+        height: 240px;
+        width: 180px;
     }
     .photo .image:before{
         height: 245px;
