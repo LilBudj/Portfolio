@@ -42,7 +42,7 @@
     font-size: 24px;
 }
 
-@media screen and (max-width: 1440px){
+@media screen and (max-width: 640px){
     .abilities{
         display: flex;
         flex-direction: column;
